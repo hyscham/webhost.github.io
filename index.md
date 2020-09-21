@@ -1,8 +1,17 @@
 <header>
+<p>My Header</p>
+  <ul>
+    <li>Home</li>
+    <li>About</li>
+    <li>Projects</li>
+  </ul>
+  
 </header>
 
 <body>
-
+<div class="container">
+  this the body of my page
+</div>
 
 <footer>
   <p>My Footer</p>
